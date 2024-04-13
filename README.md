@@ -25,7 +25,7 @@ What is the "view" rating for homes costing more than or equal to $350,000? Dete
 
 ![E1B51DB0-2B16-4876-9FA1-535F7F428D91_1_201_a](https://github.com/MarutiBiswas/Home_Sales.ipynb/assets/147889069/23423451-0d3d-4816-a73a-a027ac25fdbc)
 
-Compare the run times for the various methods of running the same sql query as question #4 above:
+Compare the run times for the various methods of running the same sql query as question :
 
 ![3AF3BC85-D2DE-4B05-A2D3-B1925DE12856_4_5005_c](https://github.com/MarutiBiswas/Home_Sales.ipynb/assets/147889069/0323e218-04fa-43a3-9483-c7eedfae43dc)
 
